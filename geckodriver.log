@@ -1,0 +1,99 @@
+1563209632127	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AnnRVAdq4XdR"
+1563209632968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563209632968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563209632968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563209635433	Marionette	INFO	Listening on port 40191
+1563209635451	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 523: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 528: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 523: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 528: unreachable code after return statement
+1563209638464	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209639960	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209671258	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209674607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209677882	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209681196	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209684479	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209687762	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209691043	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209694348	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209697700	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209700970	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209704296	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209707617	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209710945	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209714241	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209717535	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+1563209720845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1563209743765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ppINAw2T35ai"
+1563209744097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563209744097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563209744097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563209746226	Marionette	INFO	Listening on port 43775
+1563209746273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 523: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 528: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 523: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 528: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563206399419%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 523: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 528: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 523: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 528: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1563209897408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yqOBs54WnkWN"
+1563209897738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1563209897738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1563209897738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1563209899345	Marionette	INFO	Listening on port 44369
+1563209899421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 523: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 528: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 523: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 528: unreachable code after return statement
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221563206399419%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 523: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 528: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 523: unreachable code after return statement
+JavaScript warning: https://uocampus.public.uottawa.ca/cs/csprpr9pub/cache/PT_TYPEAHEAD_win0_MIN_1.js, line 528: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
