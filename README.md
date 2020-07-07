@@ -1,3 +1,7 @@
+# Note
+
+While this script does work, it is not optimal and will need some adjustments to improve its performance. 
+
 # uOttawa Timetable-Scraper 
 
 This is a python script that extracts information about University of Ottawa courses such as their name, subject, semester and times. This script uses Selenium, a web automation tool and xlwt, an excel module for python.
